@@ -1,0 +1,14 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  editor:
+    fontSize: 12
+  "exception-reporting":
+    userId: "1e94ff7b-67cb-4947-bbbf-beee3526371c"
+  "linter-ansible-linting":
+    ANSIBLE0002: true
+  "linter-ui-default":
+    panelRepresents: "Entire Project"
+    showPanel: true
+  welcome:
+    showOnStartup: false
